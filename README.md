@@ -1,24 +1,15 @@
-# README
+# Exercice Usine THP du 25 Octobre par Malo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Réalisé en pair-programming avec la team Rennes
 
-Things you may want to cover:
+Ruby version 2.5.1
+Rails version 5.2.1
 
-* Ruby version
+pour lancer
+* cloner le repo
+* faire la commande suivante dans le terminal
+```
+bundle install
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Have a good day
